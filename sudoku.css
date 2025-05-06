@@ -1,0 +1,74 @@
+        table{
+            border: 3px solid black;
+            border-collapse: collapse;
+            margin:auto;
+        } 
+        td{
+            width: 50px;
+            height: 35px;
+            text-align: center;
+            border: 1px solid black;
+            font-size: 30px;
+        }
+
+        .horizontalno{
+            border-bottom: 3px solid black;
+        }
+
+        .pocetno{
+            width: 50px;
+            height: 35px;
+            text-align: center;
+            border: 1px solid black;
+            font-size: 30px;
+            font-weight: bold;
+        }
+        .pocetno_vodoravno{
+            width: 50px;
+            height: 35px;
+            text-align: center;
+            border-right: 3px solid black;
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        .krivo{
+            width: 50px;
+            height: 35px;
+            text-align: center;
+            border: 1px solid black;
+            font-size: 30px;
+            color: red;
+        }
+        .krivo_vodoravno{
+            width: 50px;
+            height: 35px;
+            text-align: center;
+            border-right: 3px solid black;
+            font-size: 30px;
+            color: red;
+        }
+
+        .dobro{
+            width: 50px;
+            height: 35px;
+            text-align: center;
+            border: 1px solid black;
+            font-size: 30px;
+            color: blue;
+        }
+
+        .dobro_vodoravno{
+            width: 50px;
+            height: 35px;
+            text-align: center;
+            border-right: 3px solid black;
+            font-size: 30px;
+            color: blue;
+        }
+
+        .slova_u_celijama{
+            font-size: 10px;
+            vertical-align: top;
+        }
+    
